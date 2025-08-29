@@ -34,7 +34,7 @@ Data analyst with 2+ years of industry experience and an MSc in Data Science fro
   </span>
 </blockquote>
 
-![Dev Quote](images/Screenshot_2025-08-29_164218.png)
+![Dev Quote](https://github.com/kun-hari/kun-hari/raw/main/Screenshot%202025-08-29%20164218.png)
 
 ---
 
