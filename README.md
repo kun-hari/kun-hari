@@ -24,7 +24,7 @@ Data analyst with 2+ years of industry experience and an MSc in Data Science fro
 
 ## 🤝 Open to Collaboration
 
-I’m happy to collaborate on data analytics, BI dashboards, and machine learning projects — feel free to reach out!
+I’m happy to collaborate on data analytics, BI dashboards and machine learning projects, feel free to reach out!
 
 ---
 
