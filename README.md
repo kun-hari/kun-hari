@@ -1,8 +1,21 @@
-## Hi there 👋
+# 💫 About Me
 
-## 🦉 About Me
+Data analyst with 2+ years of industry experience and an MSc in Data Science from the University of York. Skilled in transforming complex data into actionable insights that drive faster, data-led decisions. Proven expertise in SQL, Python, Power BI, Tableau, and advanced data visualisation to boost ROI and improve operational efficiency.
 
-Data analyst with 2+ years of industry experience. Skilled in SQL, Python, Power BI & Tableau. Delivers clear insights driving faster, data-led decisions.
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffd54f)  
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/power--bi-F2C811?style=for-the-badge&logo=microsoft-powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft-powerbi&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)  
+![Power Query](https://img.shields.io/badge/powerquery-1F9E4A?style=for-the-badge&logo=microsoft-powerbi&logoColor=white)  
+![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
 
 <!--
 **kun-hari/kun-hari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
