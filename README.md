@@ -16,6 +16,25 @@ Data analyst with 2+ years of industry experience and an MSc in Data Science fro
 
 ---
 
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kun-hari&show_icons=true&theme=dark&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kun-hari&layout=compact&theme=dark)
+
+---
+
+## ✍️ Dev Quote
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+## 🤝 Open to Collaboration
+
+I’m happy to collaborate on data analytics, BI dashboards, and machine learning projects — feel free to reach out!
+
+---
+
 ## 📬 Contact & Links
 
 - 📧 [harimohanan1998@gmail.com](mailto:harimohanan1998@gmail.com)  
