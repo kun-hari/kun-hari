@@ -16,13 +16,6 @@ Data analyst with 2+ years of industry experience and an MSc in Data Science fro
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kun-hari&show_icons=true&theme=dark&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kun-hari&layout=compact&theme=dark)
-
----
-
 ## ✍️ Dev Quote
 
 ![Dev Quote](https://github.com/kun-hari/kun-hari/raw/main/Screenshot%202025-08-29%20164218.png)
@@ -38,6 +31,13 @@ I’m happy to collaborate on data analytics, BI dashboards, and machine learnin
 ## 📬 Contact & Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harikrishnan-mohanan/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harimohanan1998@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kun-hari&show_icons=true&theme=dark&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kun-hari&layout=compact&theme=dark)
 
 
 <!--
