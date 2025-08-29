@@ -25,15 +25,6 @@ Data analyst with 2+ years of industry experience and an MSc in Data Science fro
 
 ## ✍️ Dev Quote
 
-<blockquote>
-  <span style="color:#20d6ff; font-style:italic; font-size:1.15em;">
-    "Code is like humor. When you have to explain it, it’s bad."
-  </span><br>
-  <span style="color:#ff5a99; font-style:normal; font-size:1em;">
-    - Cory House
-  </span>
-</blockquote>
-
 ![Dev Quote](https://github.com/kun-hari/kun-hari/raw/main/Screenshot%202025-08-29%20164218.png)
 
 ---
@@ -45,6 +36,9 @@ I’m happy to collaborate on data analytics, BI dashboards, and machine learnin
 ---
 
 ## 📬 Contact & Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harikrishnan-mohanan/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harimohanan1998@gmail.com)
 
 - 📧 [harimohanan1998@gmail.com](mailto:harimohanan1998@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/harikrishnan-mohanan/) 
