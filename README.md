@@ -11,6 +11,10 @@ Data analyst with 2+ years of industry experience and an MSc in Data Science fro
 
 ---
 
+## 📬 Contact & Links
+
+- 📧 [harimohanan1998@gmail.com](mailto:harimohanan1998@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/harikrishnan-mohanan/) 
 <!--
 **kun-hari/kun-hari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
