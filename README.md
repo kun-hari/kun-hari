@@ -34,7 +34,7 @@ Data analyst with 2+ years of industry experience and an MSc in Data Science fro
   </span>
 </blockquote>
 
-![Dev Quote](https://quotefancy.com/media/wallpaper/3840x2160/8119706-Cory-House-Quote-Code-is-like-humor-When-you-have-to-explain-it-it-s-bad.jpg)
+![Dev Quote](images/Screenshot_2025-08-29_164218.png)
 
 ---
 
