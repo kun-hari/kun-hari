@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## 🦉 About Me
+
+Data analyst with 2+ years of industry experience. Skilled in SQL, Python, Power BI & Tableau. Delivers clear insights driving faster, data-led decisions.
+
 <!--
 **kun-hari/kun-hari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
