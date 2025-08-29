@@ -37,11 +37,9 @@ I’m happy to collaborate on data analytics, BI dashboards, and machine learnin
 
 ## 📬 Contact & Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harikrishnan-mohanan/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harimohanan1998@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harikrishnan-mohanan/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harimohanan1998@gmail.com)
 
-- 📧 [harimohanan1998@gmail.com](mailto:harimohanan1998@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/harikrishnan-mohanan/) 
+
 <!--
 **kun-hari/kun-hari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
