@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Data analyst with 2+ years of industry experience and an MSc in Data Science from the University of York. Skilled in transforming complex data into actionable insights that drive faster, data-led decisions. Proven expertise in SQL, Python, Power BI, Tableau, and advanced data visualisation to boost ROI and improve operational efficiency.
+Data analyst with 2+ years of industry experience and an MSc in Data Science from the University of York. Skilled in transforming complex data into actionable insights that drive faster, data-led decisions. Proven expertise in SQL, Python, Power BI, Tableau and advanced data visualisation to boost ROI and improve operational efficiency.
 
 ---
 
