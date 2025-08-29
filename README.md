@@ -25,7 +25,14 @@ Data analyst with 2+ years of industry experience and an MSc in Data Science fro
 
 ## ✍️ Dev Quote
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+<blockquote>
+  <span style="color:#20d6ff; font-style:italic; font-size:1.15em;">
+    "Code is like humor. When you have to explain it, it’s bad."
+  </span><br>
+  <span style="color:#ff5a99; font-style:normal; font-size:1em;">
+    - Cory House
+  </span>
+</blockquote>
 
 ---
 
